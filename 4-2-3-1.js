@@ -36,9 +36,9 @@ console.log(foo1);
 var foo2 = new Foo();
 console.log(foo2);
 
+// Bar is not a constructor
 // var Bar = {};
 // var bar = new Bar();
-// Bar is not a constructor
 // console.log(bar);
 
 
