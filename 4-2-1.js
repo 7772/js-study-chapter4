@@ -12,4 +12,4 @@ console.log(add.result);      // undefinded
 add.result = add(3, 2);
 
 console.log(add.result);      // 5
-console.log(add);             // page. 81 그림 4-5 참고
+console.dir(add);             // page. 81 그림 4-5 참고
